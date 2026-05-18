@@ -1,6 +1,6 @@
-# EVA3 - EVA Industrial Packaging Material
+# EVA4 - EVA Industrial Packaging Material
 
-![Product Image](../raw-album/EVA3.png)
+![Product Image](../raw-album/EVA4.png)
 
 ## Product Overview
 - **Material Composition:** EVA (Ethylene-Vinyl Acetate) copolymer
